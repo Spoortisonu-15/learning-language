@@ -1,0 +1,6 @@
+{
+  "name": "Fluently - Real-Time AI Language Partner",
+  "description": "Practice speaking any language fluently with a real-time conversational AI partner powered by Gemini Live API.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
